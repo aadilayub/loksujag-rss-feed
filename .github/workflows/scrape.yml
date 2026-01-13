@@ -2,8 +2,8 @@ name: Scrape Loksujag and Update RSS Feed
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: '0 */6 * * *'
+    # Run every 24 hours
+    - cron: '0 */24 * * *'
   workflow_dispatch:  # Allow manual triggers
 
 jobs:
