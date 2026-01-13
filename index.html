@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loksujag RSS Feed</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .rss-link {
+            background: #3498db;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin: 20px 0;
+            font-weight: 600;
+        }
+        .rss-link:hover {
+            background: #2980b9;
+        }
+        .info {
+            background: #ecf0f1;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .code {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-family: 'Courier New', monospace;
+            margin: 10px 0;
+        }
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ecf0f1;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>🗞️ Loksujag RSS Feed</h1>
+    
+    <p>
+        This is an automated RSS feed for <a href="https://loksujag.com" target="_blank">loksujag.com</a> - 
+        a digital news platform featuring voices from the margins of power in Pakistan.
+    </p>
+
+    <a href="loksujag_feed.xml" class="rss-link">📡 Subscribe to RSS Feed</a>
+
+    <div class="info">
+        <h2>How to use this feed:</h2>
+        <ol>
+            <li>Copy the feed URL below</li>
+            <li>Add it to your favorite RSS reader (Feedly, NewsBlur, etc.)</li>
+            <li>Get automatic updates when new articles are published</li>
+        </ol>
+        
+        <p><strong>Feed URL:</strong></p>
+        <div class="code">
+            <span id="feed-url">Loading...</span>
+        </div>
+        <button onclick="copyFeedUrl()" style="padding: 8px 16px; cursor: pointer;">📋 Copy URL</button>
+    </div>
+
+    <div class="info">
+        <h2>About this feed:</h2>
+        <ul>
+            <li>✅ Updates every 6 hours automatically</li>
+            <li>✅ Includes article titles, authors, and descriptions</li>
+            <li>✅ Contains up to 50 most recent articles</li>
+            <li>✅ Hosted on GitHub Pages (free and open source)</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>
+            This is an unofficial RSS feed for loksujag.com. 
+            View the source code on <a href="#" id="github-link">GitHub</a>.
+        </p>
+        <p>Last updated: <span id="last-update">Check feed</span></p>
+    </footer>
+
+    <script>
+        // Set the feed URL dynamically
+        const feedUrl = window.location.href.replace(/index\.html$/, '') + 'loksujag_feed.xml';
+        document.getElementById('feed-url').textContent = feedUrl;
+        
+        // Update GitHub link if available
+        const repoMatch = window.location.hostname.match(/^(.+)\.github\.io$/);
+        if (repoMatch) {
+            const username = repoMatch[1];
+            const repo = window.location.pathname.split('/')[1];
+            document.getElementById('github-link').href = `https://github.com/${username}/${repo}`;
+        }
+
+        function copyFeedUrl() {
+            const url = document.getElementById('feed-url').textContent;
+            navigator.clipboard.writeText(url).then(() => {
+                alert('Feed URL copied to clipboard!');
+            });
+        }
+
+        // Try to fetch last update time from the feed
+        fetch('loksujag_feed.xml')
+            .then(response => response.text())
+            .then(str => {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(str, 'text/xml');
+                const lastBuildDate = xml.querySelector('lastBuildDate');
+                if (lastBuildDate) {
+                    const date = new Date(lastBuildDate.textContent);
+                    document.getElementById('last-update').textContent = date.toLocaleString();
+                }
+            })
+            .catch(() => {
+                document.getElementById('last-update').textContent = 'Unknown';
+            });
+    </script>
+</body>
+</html>

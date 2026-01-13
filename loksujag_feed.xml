@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Loksujag - لوک سجاگ</title>
+    <link>https://loksujag.com</link>
+    <description>Voices from the margins of power</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://loksujag.com/assets/logo.png</url>
+      <title>Loksujag - لوک سجاگ</title>
+      <link>https://loksujag.com</link>
+    </image>
+    <language>ur</language>
+    <lastBuildDate>Tue, 13 Jan 2026 08:55:54 +0000</lastBuildDate>
+    <item>
+      <title>خصوصی ایڈیشن</title>
+      <link>https://loksujag.com/special-edition/exploitative-labor</link>
+      <guid isPermaLink="false">ee885a038484a742b57fc3543c95633f</guid>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ضلع لوئر دیر جہاں پوری دہائی میں کوئی ایک ترقیاتی منصوبہ بھی مکمل نہیں ہو سکا</title>
+      <link>https://loksujag.com/story/a-decade-without-development-lower-dir</link>
+      <guid isPermaLink="false">ab329f0d88334aee80490f7af0c5c11e</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Lower-dir-title-1.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>برف کی خشک سالی:  خیبر پختونخوا کے پہاڑوں سے اترتا ہوا معاشی و آبی بحران</title>
+      <link>https://loksujag.com/story/snow-drought-in-KPK</link>
+      <guid isPermaLink="false">32a4efeac8017f1fd0c83ec63831760d</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Snow-drought-title.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>گندم اگائیں، کھاد کی رقم سندھ حکومت دے گی، پروگرام پر عمل کیسے ہو رہا ہے؟</title>
+      <link>https://loksujag.com/story/wheat-subsidy-sindh-government</link>
+      <guid isPermaLink="false">57cf61e400f7af2564715bd98a589d6c</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Sindh-wheat-subsidy-web-thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>پشاور میں بے گھر مزدوروں کے لئے فلیٹ پانچ سال سے تیار ہیں لیکن الاٹ کیوں نہیں ہو پا رہے؟</title>
+      <link>https://loksujag.com/story/peshawar-homeless-workers-flats-allotment-delay</link>
+      <guid isPermaLink="false">cfa3bdeb8fc93cab8e76d2c437d09a5e</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Article-labour-complex-peshawar-thumb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>موسمیاتی انصاف: سیلاب سے متاثر 43 سندھی کسانوں نے دو جرمن کمپنیوں پر ہرجانے کا دعویٰ کر دیا</title>
+      <link>https://loksujag.com/story/sindh-floods-farmers-blame-multinational-companies</link>
+      <guid isPermaLink="false">a38f9161d71682ebfc84552901a54e61</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Web-story-new.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>بھورے ریچھ کی پوسٹ مارٹم رپورٹ: دیو سائی کے بادشاہ کی سلطنت کن خطرات میں گھری ہے؟</title>
+      <link>https://loksujag.com/story/brown-bear-postmortem-report-deosai-threats</link>
+      <guid isPermaLink="false">1aa80b82a8560159a0b82266c483dd68</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Bear-web-thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>پاکستان میں بڑھاپا خاموش بحران کی صورت کیوں اختیار کر رہا ہے؟</title>
+      <link>https://loksujag.com/story/ageing-crisis-in-pakistan</link>
+      <guid isPermaLink="false">a340d82d18d2c157fde55b4a6cee65dc</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Pakistan%E2%80%99s-Growing-Elderly-Crisis-Thumb.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>خواجہ سراؤں کا جہنم: خیبر پختونخوا جہاں مقتولین کو دفنانے تک کی اجازت نہیں ملتی</title>
+      <link>https://loksujag.com/story/violence-against-transgender</link>
+      <guid isPermaLink="false">bc7140b8dc860508a056ce2f72c54e03</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Transgender-story-title.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>آخر ٹماٹر، سیب اور انار سے بھی مہنگے کیوں ہو گئے؟</title>
+      <link>https://loksujag.com/story/tomato-prices-soar-pakistan-2025</link>
+      <guid isPermaLink="false">0207942581fcd9ceac3ad534b56debfb</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Artboard-1-80.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>کھیت ڈوبے تو منڈیاں اُجڑ گئیں: سیلاب نے سبزی اور پھل اگانے والے کسانوں کو برسوں پیچھے دھکیل دیا</title>
+      <link>https://loksujag.com/story/flood-hit-vegetable-fruit-farmers-recovery-ur</link>
+      <guid isPermaLink="false">79b0d46a08e60057548d20ea450c6162</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/thumb-%283%29.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>بلوچستان 'ایک نیا افغانستان': افیون کی کاشت میں اچانک بے تحاشا اضافہ کیا گل کھلائے گا؟</title>
+      <link>https://loksujag.com/story/balochistan-new-afghanistan-opium-cultivation-surge</link>
+      <guid isPermaLink="false">866d43ff10bb7aad1f5c4c301acc5d02</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Artboard-1-100.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 13 Jan 2026 08:55:29 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
