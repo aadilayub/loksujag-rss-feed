@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Thu, 15 Jan 2026 00:18:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 00:19:55 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -102,6 +102,13 @@
       <guid isPermaLink="false">d763677e93c5abd1ab14e5b44860b971</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Title-option-6.png" length="0" type="image/jpeg"/>
       <pubDate>Thu, 15 Jan 2026 00:18:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>سندھ سولر انرجی پراجیکٹ میں کرپشن: بجلی کے غریب صارفین کی سولر بیٹری کتنا عرصہ چل پائے گی؟</title>
+      <link>https://loksujag.com/story/sindh-solar-energy-project-corruption</link>
+      <guid isPermaLink="false">67c2009045aaa6adef69121ef9127883</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Sindh-solar-title.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 16 Jan 2026 00:19:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
