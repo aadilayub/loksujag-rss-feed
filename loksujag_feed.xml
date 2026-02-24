@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Mon, 23 Feb 2026 00:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 00:24:15 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -144,6 +144,13 @@
       <guid isPermaLink="false">f2543b7f87c9535c54dce481a99f7e74</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/882-Urmari-female-baby.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 21 Feb 2026 00:23:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>مہارے گھراں ناں پدھارو: تھر میں گونجتے لوک گیتوں کی زبان ڈھاٹکی کی داستان</title>
+      <link>https://loksujag.com/story/story-of-dhatki-folk-songs-thar</link>
+      <guid isPermaLink="false">c97aa1d1334f143a3b0e533542c4a398</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/950-Dhatki-language.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Feb 2026 00:24:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
