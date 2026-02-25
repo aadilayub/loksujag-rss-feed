@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Tue, 24 Feb 2026 00:24:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 00:26:05 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -151,6 +151,13 @@
       <guid isPermaLink="false">c97aa1d1334f143a3b0e533542c4a398</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/950-Dhatki-language.png" length="0" type="image/jpeg"/>
       <pubDate>Tue, 24 Feb 2026 00:24:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>اُشوجو زبان جسے بشیگرام کے صرف ڈیڑھ، دو ہزار افراد ہی بولتے ہیں</title>
+      <link>https://loksujag.com/story/ushojo-language-bashigram-endangered-language</link>
+      <guid isPermaLink="false">b40b20040856632ca835dfad9ab8b00b</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/122-ushoju-language.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Feb 2026 00:26:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
