@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 00:28:19 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -158,6 +158,13 @@
       <guid isPermaLink="false">b40b20040856632ca835dfad9ab8b00b</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/122-ushoju-language.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 25 Feb 2026 00:26:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>درزی، درزن اور دراز ڈاٹ کام: ہم کیا پہنیں، یہ مقابلہ کون جیت رہا ہے؟</title>
+      <link>https://loksujag.com/story/darzi-vs-daraz-fashion-industry-change</link>
+      <guid isPermaLink="false">eccceb2883bf78a20d0176a344b75aa6</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/Darzi-title.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Mar 2026 00:28:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
