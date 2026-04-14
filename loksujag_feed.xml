@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Mon, 13 Apr 2026 00:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 00:33:23 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -172,6 +172,13 @@
       <guid isPermaLink="false">bd06ac999183c4a827e754a55b264d4a</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/200-womens-commission.png" length="0" type="image/jpeg"/>
       <pubDate>Wed, 11 Mar 2026 00:21:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>بلوچستان: زرعی ٹیوب ویلوں کی سولر پر منتقلی کیا حکومت مطلوبہ مقاصد حاصل کر پائی؟</title>
+      <link>https://loksujag.com/story/solarising-agricultural-tube-wells-in-balochistan-impact-and-challenges-ur</link>
+      <guid isPermaLink="false">bc255d87228bc8cf7ec26c6fa0b8897f</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/356-solar-tube-well-agriculture.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 14 Apr 2026 00:33:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
