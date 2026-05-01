@@ -12,7 +12,7 @@
       <link>https://loksujag.com</link>
     </image>
     <language>ur</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 00:40:49 +0000</lastBuildDate>
     <item>
       <title>خصوصی ایڈیشن</title>
       <link>https://loksujag.com/special-edition/exploitative-labor</link>
@@ -186,6 +186,13 @@
       <guid isPermaLink="false">6fbf109128990636d055d1d9e3a360f9</guid>
       <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/845-rhodes-grass.png" length="0" type="image/jpeg"/>
       <pubDate>Fri, 24 Apr 2026 00:34:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>باپ مرتے ہی بیٹیاں گھر سے باہر: ہندو خواتین کے وراثت کے حق کا قانون کب بنے گا؟</title>
+      <link>https://loksujag.com/story/hindu-women-inheritance-rights-pakistan-daughters-share-law</link>
+      <guid isPermaLink="false">f079ab48a98b7a3aac524fa7fbc61ccc</guid>
+      <enclosure url="https://sujag-london.s3.eu-west-2.amazonaws.com/sujag-london/686-hindu-inheritance-law.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 01 May 2026 00:40:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
